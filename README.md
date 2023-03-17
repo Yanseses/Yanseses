@@ -27,11 +27,11 @@
 &nbsp;
 <div id="about" align="center">
 	<h3>About me</h3>
-	- 🌱 I’m currently learning **Web3, GameDev**
-	- 📝 I regularly write articles on [Medium](medium-link)
-	- 📄 Know about my experiences [CV](cv-link)
-	- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
-	- 🌍 I speak English
+	- 🌱 I’m currently learning **Web3, GameDev**&nbsp;
+	- 📝 I regularly write articles on [Medium](medium-link)&nbsp;
+	- 📄 Know about my experiences [CV](cv-link)&nbsp;
+	- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)&nbsp;
+	- 🌍 I speak English&nbsp;
 </div>
 &nbsp;
 <div id="stat" align="center">
