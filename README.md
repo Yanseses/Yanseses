@@ -24,7 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="node" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="node" width="40" height="40"/>&nbsp;
 </div>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark)
 
 <!--
 **Yanseses/Yanseses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
