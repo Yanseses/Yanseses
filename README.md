@@ -24,7 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="node" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="node" width="40" height="40"/>&nbsp;
 </div>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yanseses&theme=default)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yanseses&theme=default" />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yanseses&theme=default)
 
 <!--
