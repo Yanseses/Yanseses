@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>Hi there, I'm Yaroslav</h1>
-	<h2>Frontend Developer from Moscow</h2>
+	<h3>Frontend Developer from Moscow</h3>
 	<a href="https://www.linkedin.com/in/lyubimov-yaroslav">
 		<img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
