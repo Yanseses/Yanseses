@@ -4,7 +4,7 @@
 	<a href="[linkedin-url](https://www.linkedin.com/in/lyubimov-yaroslav/)">
 		<img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
-	<a href="[linkedin-url](https://www.linkedin.com/in/lyubimov-yaroslav/)">
+	<a href="[linkedin-url](https://t.me/yarlubimov)">
 		<img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
