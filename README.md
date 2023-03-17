@@ -9,7 +9,7 @@
 	</a>
 </div>
 <div id="languages" align="center">
-	<h3>Languages and tools</h3>
+	<h3>My languages and tools</h3>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" width="40" height="40"/>&nbsp;
@@ -25,24 +25,18 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="node" width="40" height="40"/>&nbsp;
 </div>
 &nbsp;
+<div id="about" align="center">
+	<h3>About me</h3>
+	- 🌱 I’m currently learning **Web3, GameDev**
+	- 📝 I regularly write articles on [Medium](medium-link)
+	- 📄 Know about my experiences [CV](cv-link)
+	- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
+	- 🌍 I speak English
+</div>
+&nbsp;
 <div id="stat" align="center">
 	<h3>My stats</h3>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yanseses&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yanseses&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yanseses&theme=github_dark"/>
 </div>
-
-<!--
-**Yanseses/Yanseses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
