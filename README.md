@@ -25,6 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="node" width="40" height="40"/>&nbsp;
 </div>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yanseses&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yanseses&theme=default)
 
 <!--
 **Yanseses/Yanseses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
