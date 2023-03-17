@@ -27,11 +27,7 @@
 &nbsp;
 <div id="about" align="center">
 	<h3>About me</h3>
-	- 🌱 I’m currently learning **Web3, GameDev**&nbsp;
-	- 📝 I regularly write articles on [Medium](medium-link)&nbsp;
-	- 📄 Know about my experiences [CV](cv-link)&nbsp;
-	- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)&nbsp;
-	- 🌍 I speak English&nbsp;
+	I work as a beginner front-end developer in a fintech company. I continue to develop my skills in developing websites and SPA systems. All my current projects can be found in my repository below.
 </div>
 &nbsp;
 <div id="stat" align="center">
